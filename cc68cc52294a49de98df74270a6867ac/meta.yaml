@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/cc68cc52294a49de98df74270a6867ac/artifacts
+end_time: 1681324421838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc68cc52294a49de98df74270a6867ac
+run_name: wistful-perch-460
+run_uuid: cc68cc52294a49de98df74270a6867ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681324418348
+status: 3
+tags: []
+user_id: roneknah
