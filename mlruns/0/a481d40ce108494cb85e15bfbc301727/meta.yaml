@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/a481d40ce108494cb85e15bfbc301727/artifacts
+end_time: 1681385642514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a481d40ce108494cb85e15bfbc301727
+run_name: rambunctious-cub-537
+run_uuid: a481d40ce108494cb85e15bfbc301727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681385639180
+status: 3
+tags: []
+user_id: roneknah

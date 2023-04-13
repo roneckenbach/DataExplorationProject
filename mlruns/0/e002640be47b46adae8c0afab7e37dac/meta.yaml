@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/e002640be47b46adae8c0afab7e37dac/artifacts
+end_time: 1681385595819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e002640be47b46adae8c0afab7e37dac
+run_name: sincere-dolphin-253
+run_uuid: e002640be47b46adae8c0afab7e37dac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681385592515
+status: 3
+tags: []
+user_id: roneknah

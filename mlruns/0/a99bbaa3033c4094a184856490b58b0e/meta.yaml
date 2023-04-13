@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/a99bbaa3033c4094a184856490b58b0e/artifacts
+end_time: 1681385592510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a99bbaa3033c4094a184856490b58b0e
+run_name: defiant-gnu-618
+run_uuid: a99bbaa3033c4094a184856490b58b0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681385589182
+status: 3
+tags: []
+user_id: roneknah

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/9cfe536c7b02444ebb4a58ee1b6e60fa/artifacts
+end_time: 1681385622362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cfe536c7b02444ebb4a58ee1b6e60fa
+run_name: persistent-finch-596
+run_uuid: 9cfe536c7b02444ebb4a58ee1b6e60fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681385619013
+status: 3
+tags: []
+user_id: roneknah

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/a4b2c99626fd4a53a68ef580f0f288eb/artifacts
+end_time: 1681385669152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4b2c99626fd4a53a68ef580f0f288eb
+run_name: traveling-hen-800
+run_uuid: a4b2c99626fd4a53a68ef580f0f288eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681385665789
+status: 3
+tags: []
+user_id: roneknah

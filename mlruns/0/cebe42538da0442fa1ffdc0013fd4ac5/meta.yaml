@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/cebe42538da0442fa1ffdc0013fd4ac5/artifacts
+end_time: 1681385679294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cebe42538da0442fa1ffdc0013fd4ac5
+run_name: valuable-whale-46
+run_uuid: cebe42538da0442fa1ffdc0013fd4ac5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681385675913
+status: 3
+tags: []
+user_id: roneknah

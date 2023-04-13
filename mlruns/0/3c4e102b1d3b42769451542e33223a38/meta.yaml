@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/3c4e102b1d3b42769451542e33223a38/artifacts
+end_time: 1681385659144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c4e102b1d3b42769451542e33223a38
+run_name: orderly-whale-588
+run_uuid: 3c4e102b1d3b42769451542e33223a38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681385655811
+status: 3
+tags: []
+user_id: roneknah

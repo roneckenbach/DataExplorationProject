@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/e6b9117a27f64448acbc61a3f5b3e1c2/artifacts
+end_time: 1681385609130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6b9117a27f64448acbc61a3f5b3e1c2
+run_name: languid-horse-719
+run_uuid: e6b9117a27f64448acbc61a3f5b3e1c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681385605743
+status: 3
+tags: []
+user_id: roneknah

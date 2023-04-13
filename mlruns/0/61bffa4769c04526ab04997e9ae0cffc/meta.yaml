@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/61bffa4769c04526ab04997e9ae0cffc/artifacts
+end_time: 1681385589178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61bffa4769c04526ab04997e9ae0cffc
+run_name: likeable-shrimp-54
+run_uuid: 61bffa4769c04526ab04997e9ae0cffc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681385585661
+status: 3
+tags: []
+user_id: roneknah

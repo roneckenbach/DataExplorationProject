@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/e1d3926595b54633a9d96cdfc1a6a7ea/artifacts
+end_time: 1681385629113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1d3926595b54633a9d96cdfc1a6a7ea
+run_name: melodic-fly-363
+run_uuid: e1d3926595b54633a9d96cdfc1a6a7ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681385625749
+status: 3
+tags: []
+user_id: roneknah

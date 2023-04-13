@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/90364899cebd43c5830df528f2550250/artifacts
+end_time: 1681385625745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90364899cebd43c5830df528f2550250
+run_name: blushing-croc-729
+run_uuid: 90364899cebd43c5830df528f2550250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681385622366
+status: 3
+tags: []
+user_id: roneknah

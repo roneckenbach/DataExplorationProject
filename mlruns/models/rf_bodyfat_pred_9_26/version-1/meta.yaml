@@ -1,0 +1,12 @@
+creation_timestamp: 1681386324593
+current_stage: None
+description: ''
+last_updated_timestamp: 1681386324593
+name: rf_bodyfat_pred_9_26
+run_id: 689faa0aa0d94bf8a7e536bb9c6d8d41
+run_link: ''
+source: file:///Users/roneknah/AML/mlruns/0/689faa0aa0d94bf8a7e536bb9c6d8d41/artifacts/random_forest_model
+status: READY
+status_message: null
+user_id: null
+version: 1
